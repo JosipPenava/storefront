@@ -1,0 +1,222 @@
+[
+    {
+        "id": "1",
+        "name": "name1",
+        "price": "cijena1",
+        "picture": "shirt1.png",
+        "category": "category1",
+        "description": "Ovo je opis proizvoda 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green","black"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "2",
+        "name": "name2",
+        "price": "cijena2",
+        "picture": "shirt2.png",
+        "category": "category2",
+        "description": "Ovo je opis proizvoda 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "yellow"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "3",
+        "name": "name3",
+        "price": "cijena3",
+        "picture": "shirt3.png",
+        "category": "category3",
+        "description": "Ovo je opis proizvoda 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","black", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "4",
+        "name": "name4",
+        "price": "cijena4",
+        "picture": "shirt4.png",
+        "category": "category4",
+        "description": "Ovo je opis proizvoda 4: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["black","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "5",
+        "name": "name5",
+        "price": "cijena5",
+        "picture": "shirt3.png",
+        "category": "category3",
+        "description": "Ovo je opis proizvoda 5: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "6",
+        "name": "name6",
+        "price": "cijena6",
+        "picture": "shirt2.png",
+        "category": "category5",
+        "description": "Ovo je opis proizvoda 6: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "7",
+        "name": "name7",
+        "price": "cijena7",
+        "picture": "shirt1.png",
+        "category": "category1",
+        "description": "Ovo je opis proizvoda 7: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "8",
+        "name": "name8",
+        "price": "cijena8",
+        "picture": "shirt2.png",
+        "category": "category2",
+        "description": "Ovo je opis proizvoda 8: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "9",
+        "name": "name9",
+        "price": "cijena9",
+        "picture": "shirt1.png",
+        "category": "category3",
+        "description": "Ovo je opis proizvoda 9: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "10",
+        "name": "name10",
+        "price": "cijena10",
+        "picture": "shirt3.png",
+        "category": "category1",
+        "description": "Ovo je opis proizvoda 10: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "11",
+        "name": "name11",
+        "price": "cijena11",
+        "picture": "shirt4.png",
+        "category": "category1",
+        "description": "Ovo je opis proizvoda 11: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "12",
+        "name": "name12",
+        "price": "cijena12",
+        "picture": "shirt2.png",
+        "category": "category1",
+        "description": "Ovo je opis proizvoda 12: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },    
+    {
+        "id": "13",
+        "name": "name13",
+        "price": "cijena13",
+        "picture": "shirt1.png",
+        "category": "category3",
+        "description": "Ovo je opis proizvoda 13: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","black", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "14",
+        "name": "name14",
+        "price": "cijena14",
+        "picture": "shirt1.png",
+        "category": "category4",
+        "description": "Ovo je opis proizvoda 14: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["black","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "15",
+        "name": "name15",
+        "price": "cijena15",
+        "picture": "shirt3.png",
+        "category": "category3",
+        "description": "Ovo je opis proizvoda 15: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "16",
+        "name": "name16",
+        "price": "cijena16",
+        "picture": "shirt3.png",
+        "category": "category5",
+        "description": "Ovo je opis proizvoda 16: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "17",
+        "name": "name17",
+        "price": "cijena17",
+        "picture": "shirt4.png",
+        "category": "category1",
+        "description": "Ovo je opis proizvoda 17: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "18",
+        "name": "name18",
+        "price": "cijena18",
+        "picture": "shirt4.png",
+        "category": "category2",
+        "description": "Ovo je opis proizvoda 18: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "19",
+        "name": "name19",
+        "price": "cijena19",
+        "picture": "shirt2.png",
+        "category": "category3",
+        "description": "Ovo je opis proizvoda 19: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "20",
+        "name": "name20",
+        "price": "cijena20",
+        "picture": "shirt1.png",
+        "category": "category1",
+        "description": "Ovo je opis proizvoda 20: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "21",
+        "name": "name21",
+        "price": "cijena21",
+        "picture": "shirt3.png",
+        "category": "category1",
+        "description": "Ovo je opis proizvoda 21: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    },
+    {
+        "id": "22",
+        "name": "name22",
+        "price": "cijena22",
+        "picture": "shirt2.png",
+        "category": "category1",
+        "description": "Ovo je opis proizvoda 22: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "colors" : ["blue","red", "green"],
+        "sizes" : ["small", "medium", "large"]
+    }
+]
